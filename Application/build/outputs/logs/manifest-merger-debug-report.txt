@@ -1,0 +1,102 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\rvalaval\Desktop\pavani\permissions-samples-master\RuntimePermissionsBasic\Application\src\main\AndroidManifest.xml:17:1-48:12
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\rvalaval\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\a2fc5fe14e505ed070106d34708aeb8c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:design:27.0.2] C:\Users\rvalaval\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\43c85abd5982efbec7277ad9284a8fc8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\rvalaval\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\f3503f5eb4d3c9b2750057b7cf9feff4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\rvalaval\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\3a2afcdfee1fcf1666ff014e6f7c06f1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\rvalaval\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\b7523aac03ee67931f49280580ab2243\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\rvalaval\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\d12b18997c84769c2058255550070682\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\rvalaval\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\427189883c97d22c23f1b7d5f1a8cebe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\rvalaval\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\aa31d44036a63c77dda8f7d560f3d37f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\rvalaval\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\b02db6c20a86a01866204360bcf0cb72\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\rvalaval\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\28e367452cc7105f51937c20f134a28a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\rvalaval\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\95ec2918be07f6c6016f75045ae814fc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\rvalaval\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\4a9b9045474c76634b611cc00cbcfe51\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.0.2] C:\Users\rvalaval\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\a20bd2e506a6d8a2bffe7d23c8dc4245\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\rvalaval\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\7443c291e80d86862e255d34e30273ef\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\rvalaval\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\6a3be5638a4a2459170da675dec28aaa\AndroidManifest.xml:17:1-24:12
+	package
+		ADDED from C:\Users\rvalaval\Desktop\pavani\permissions-samples-master\RuntimePermissionsBasic\Application\src\main\AndroidManifest.xml:18:11-57
+	xmlns:android
+		ADDED from C:\Users\rvalaval\Desktop\pavani\permissions-samples-master\RuntimePermissionsBasic\Application\src\main\AndroidManifest.xml:17:11-69
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\rvalaval\Desktop\pavani\permissions-samples-master\RuntimePermissionsBasic\Application\src\main\AndroidManifest.xml:24:5-64
+	android:name
+		ADDED from C:\Users\rvalaval\Desktop\pavani\permissions-samples-master\RuntimePermissionsBasic\Application\src\main\AndroidManifest.xml:24:22-62
+application
+ADDED from C:\Users\rvalaval\Desktop\pavani\permissions-samples-master\RuntimePermissionsBasic\Application\src\main\AndroidManifest.xml:27:5-46:19
+	android:label
+		ADDED from C:\Users\rvalaval\Desktop\pavani\permissions-samples-master\RuntimePermissionsBasic\Application\src\main\AndroidManifest.xml:30:13-45
+	android:icon
+		ADDED from C:\Users\rvalaval\Desktop\pavani\permissions-samples-master\RuntimePermissionsBasic\Application\src\main\AndroidManifest.xml:29:13-47
+	android:allowBackup
+		ADDED from C:\Users\rvalaval\Desktop\pavani\permissions-samples-master\RuntimePermissionsBasic\Application\src\main\AndroidManifest.xml:28:13-39
+	android:theme
+		ADDED from C:\Users\rvalaval\Desktop\pavani\permissions-samples-master\RuntimePermissionsBasic\Application\src\main\AndroidManifest.xml:31:13-57
+activity#com.example.android.basicpermissions.MainActivity
+ADDED from C:\Users\rvalaval\Desktop\pavani\permissions-samples-master\RuntimePermissionsBasic\Application\src\main\AndroidManifest.xml:32:9-39:20
+	android:label
+		ADDED from C:\Users\rvalaval\Desktop\pavani\permissions-samples-master\RuntimePermissionsBasic\Application\src\main\AndroidManifest.xml:34:17-49
+	android:name
+		ADDED from C:\Users\rvalaval\Desktop\pavani\permissions-samples-master\RuntimePermissionsBasic\Application\src\main\AndroidManifest.xml:33:17-45
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\rvalaval\Desktop\pavani\permissions-samples-master\RuntimePermissionsBasic\Application\src\main\AndroidManifest.xml:35:13-38:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\rvalaval\Desktop\pavani\permissions-samples-master\RuntimePermissionsBasic\Application\src\main\AndroidManifest.xml:36:17-68
+	android:name
+		ADDED from C:\Users\rvalaval\Desktop\pavani\permissions-samples-master\RuntimePermissionsBasic\Application\src\main\AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\rvalaval\Desktop\pavani\permissions-samples-master\RuntimePermissionsBasic\Application\src\main\AndroidManifest.xml:37:17-76
+	android:name
+		ADDED from C:\Users\rvalaval\Desktop\pavani\permissions-samples-master\RuntimePermissionsBasic\Application\src\main\AndroidManifest.xml:37:27-74
+activity#com.example.android.basicpermissions.camera.CameraPreviewActivity
+ADDED from C:\Users\rvalaval\Desktop\pavani\permissions-samples-master\RuntimePermissionsBasic\Application\src\main\AndroidManifest.xml:42:9-44:43
+	android:exported
+		ADDED from C:\Users\rvalaval\Desktop\pavani\permissions-samples-master\RuntimePermissionsBasic\Application\src\main\AndroidManifest.xml:44:17-41
+	android:name
+		ADDED from C:\Users\rvalaval\Desktop\pavani\permissions-samples-master\RuntimePermissionsBasic\Application\src\main\AndroidManifest.xml:43:17-61
+uses-sdk
+INJECTED from C:\Users\rvalaval\Desktop\pavani\permissions-samples-master\RuntimePermissionsBasic\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\rvalaval\Desktop\pavani\permissions-samples-master\RuntimePermissionsBasic\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\rvalaval\Desktop\pavani\permissions-samples-master\RuntimePermissionsBasic\Application\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\rvalaval\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\a2fc5fe14e505ed070106d34708aeb8c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\rvalaval\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\a2fc5fe14e505ed070106d34708aeb8c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.2] C:\Users\rvalaval\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\43c85abd5982efbec7277ad9284a8fc8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.2] C:\Users\rvalaval\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\43c85abd5982efbec7277ad9284a8fc8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\rvalaval\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\f3503f5eb4d3c9b2750057b7cf9feff4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\rvalaval\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\f3503f5eb4d3c9b2750057b7cf9feff4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\rvalaval\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\3a2afcdfee1fcf1666ff014e6f7c06f1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\rvalaval\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\3a2afcdfee1fcf1666ff014e6f7c06f1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\rvalaval\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\b7523aac03ee67931f49280580ab2243\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\rvalaval\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\b7523aac03ee67931f49280580ab2243\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\rvalaval\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\d12b18997c84769c2058255550070682\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\rvalaval\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\d12b18997c84769c2058255550070682\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\rvalaval\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\427189883c97d22c23f1b7d5f1a8cebe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\rvalaval\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\427189883c97d22c23f1b7d5f1a8cebe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\rvalaval\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\aa31d44036a63c77dda8f7d560f3d37f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\rvalaval\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\aa31d44036a63c77dda8f7d560f3d37f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\rvalaval\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\b02db6c20a86a01866204360bcf0cb72\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\rvalaval\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\b02db6c20a86a01866204360bcf0cb72\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\rvalaval\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\28e367452cc7105f51937c20f134a28a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\rvalaval\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\28e367452cc7105f51937c20f134a28a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\rvalaval\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\95ec2918be07f6c6016f75045ae814fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\rvalaval\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\95ec2918be07f6c6016f75045ae814fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\rvalaval\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\4a9b9045474c76634b611cc00cbcfe51\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\rvalaval\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\4a9b9045474c76634b611cc00cbcfe51\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] C:\Users\rvalaval\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\a20bd2e506a6d8a2bffe7d23c8dc4245\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] C:\Users\rvalaval\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\a20bd2e506a6d8a2bffe7d23c8dc4245\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\rvalaval\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\7443c291e80d86862e255d34e30273ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\rvalaval\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\7443c291e80d86862e255d34e30273ef\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\rvalaval\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\6a3be5638a4a2459170da675dec28aaa\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\rvalaval\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\6a3be5638a4a2459170da675dec28aaa\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\rvalaval\Desktop\pavani\permissions-samples-master\RuntimePermissionsBasic\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\rvalaval\Desktop\pavani\permissions-samples-master\RuntimePermissionsBasic\Application\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\rvalaval\Desktop\pavani\permissions-samples-master\RuntimePermissionsBasic\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\rvalaval\Desktop\pavani\permissions-samples-master\RuntimePermissionsBasic\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\rvalaval\Desktop\pavani\permissions-samples-master\RuntimePermissionsBasic\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\rvalaval\Desktop\pavani\permissions-samples-master\RuntimePermissionsBasic\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\rvalaval\Desktop\pavani\permissions-samples-master\RuntimePermissionsBasic\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\rvalaval\Desktop\pavani\permissions-samples-master\RuntimePermissionsBasic\Application\src\main\AndroidManifest.xml
